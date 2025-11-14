@@ -1,68 +1,69 @@
-<h1 align="center">👋 Hey, I'm Saif</h1>
+<h1 align="center">Hi, I'm Saif Mahmoud 👋</h1>
+<h3 align="center">Front-End Developer 🧠</h3>
+
 <p align="center">
-  <b>Front-End Developer | HTML • CSS • JavaScript</b>  
-  <br>
-  ببني مواقع نظيفة، سريعة، ومتوافقة مع كل الأجهزة.
+  <a href="https://www.facebook.com/saif.mahmoud.852966" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/201022051590" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/1053986338787053638" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 ## 🚀 About Me
-- مهتم ببناء واجهات مستخدم احترافية  
-- شغال على تطوير مهاراتي في CSS Grid & Media Queries  
-- بتعلم JavaScript خطوة بخطوة وبطبّق يوميًا  
-- هدفـي: أبقى Front-End محترف وقدر أبيع أول موقع بجودة عالية
+
+```dart
+const Saif = {
+  "age": 16,
+  "language": "Arabic / Egyptian",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript Basics",
+    "DOM",
+    "Responsive Design",
+    "Discord.js",
+    "Git & GitHub"
+  ],
+  "learning": [
+    "CSS Grid",
+    "Media Queries",
+    "Advanced JavaScript",
+    "Better UI/UX Patterns",
+    "Building Full Portfolio Projects"
+  ]
+};
+
+```
+## 🔥 Highlights
+
+- 🔥 Building my personal brand in Front-End Development & Discord Bots
+- 👨‍💻 Learning web development in Arabic with clear, practical projects
+- 🌐 Creating my own ecosystem: SaifX | AlphaNode™
+- 🧩 Developing clean and reusable UI components using HTML, CSS & JavaScript
+- ⚙️ Improving my skills in Discord.js and building functional bot systems
+- 🚀 Working on real portfolio projects to start getting my first clients
 
 ---
 
-## 🛠️ Tech Stack
-### **Languages**
-- HTML  
-- CSS (Flexbox, Animations, Grid… soon ✔️)  
-- JavaScript (Basics • DOM • Events)
+## 🧰 Tech Toolbox
 
-### **Tools**
-- VS Code  
-- Git & GitHub  
-- Chrome DevTools  
-
----
-
-## 📂 Featured Projects
-### 🔹 **Landing Page**
-موقع كامل فيه Hero + Sections + Animations  
-👉 **Live Demo:** (ضيف الرابط هنا)  
-👉 **Source Code:** (ضيف رابط الريبو)
-
-### 🔹 **E-Commerce Product Page**
-تصميم احترافي لصفحة منتجات + Responsive  
-👉 **Live Demo:**  
-👉 **Source Code:**  
-
-### 🔹 **Portfolio Website**
-الموقع اللي بعرض فيه شغلي  
-👉 **Live Demo:**  
-👉 **Source Code:**  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
 </p>
 
 ---
 
-## 📬 Contact Me
-- **Discord:** (ضيف يوزرك)  
-- **Email:** (ضيف الإيميل)  
-- **Website:** (لو عندك GitHub Pages أو دومين)
 
----
+## ⚡️ Motto
 
-<p align="center">
-  <b>شكراً لزيارتك ❤️</b>
-  <br>
-  لو حابب تشوف شغلي… تحت هتلاقي المشاريع المثبّتة.
-</p>
+> **“Let’s simplify learning, one line of code at a time.”**
