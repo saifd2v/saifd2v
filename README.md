@@ -21,7 +21,6 @@
 
 ```dart
 const Saif = {
-  "age": 16,
   "language": "Arabic / Egyptian",
   "skills": [
     "HTML",
