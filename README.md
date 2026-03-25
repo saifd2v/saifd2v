@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saif Mahmoud 👋</h1>
-<h3 align="center">Front-End Developer 🧠</h3>
+<h3 align="center">Full-Stack Developer 💻</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/saif.mahmoud.852966" target="_blank">
@@ -19,43 +19,39 @@
 
 ## 🚀 About Me
 
-```dart
+```javascript
 const Saif = {
   "language": "Arabic / Egyptian",
+  "role": "Full-Stack Developer",
   "skills": [
     "HTML",
     "CSS",
-    "JavaScript Basics",
-    "DOM",
-    "Responsive Design",
-    "Discord.js",
+    "JavaScript",
+    "TailwindCSS",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
     "Git & GitHub"
-  ],
-  "learning": [
-    "CSS Grid",
-    "Media Queries",
-    "Advanced JavaScript",
-    "Better UI/UX Patterns",
-    "Building Full Portfolio Projects"
   ]
 };
 
 ```
 ## 🔥 Highlights
 
-- 🔥 Building my personal brand in Front-End Development & Discord Bots
-- 👨‍💻 Learning web development in Arabic with clear, practical projects
-- 🌐 Creating my own ecosystem: SaifX | AlphaNode™
-- 🧩 Developing clean and reusable UI components using HTML, CSS & JavaScript
-- ⚙️ Improving my skills in Discord.js and building functional bot systems
-- 🚀 Working on real portfolio projects to start getting my first clients
+- 🔥 Building full-stack web applications with modern technologies
+- 👨‍💻 Focusing on clean, reusable UI components and functional backend systems
+- 🌐 Creating my personal ecosystem: SaifX | AlphaNode™
+- 🧩 Improving front-end and back-end integration skills
+- 🚀 Working on real-world projects to start freelancing and client work
 
 ---
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,nodejs,express,mongodb,vscode,github,git" /> 
 </p>
 
 ---
